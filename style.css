@@ -11,8 +11,24 @@ body {
   height: 300px;
 
   /* PADDING: */
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+
   padding: 20px;
+  padding: 20px 30px;
+  padding: 20px 30px 40px;
+  padding: 20px 30px 40px  50px;
 
   /* MARGIN: */
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+
   margin: 20px;
+  margin: 20px 30px;
+  margin: 20px 30px 40px;
+  margin: 20px 30px 40px  50px;
 }
